@@ -1,5 +1,4 @@
 Karun Narayan 912828354
-
 // add name here and student ID
 
 In order to compile, cd into proper directory with java files. Before you compile and run the server you should set up the internet browser. In firefox go to preferences or settings and then go to network settings. Click settings. Click the the manual proxy configuration. In http proxy type in "localhost" and in the port put "8080". Now your browser is gonna use the java proxy. Now you should clear cache and delete history in your browser. Then run "javac -deprecation *.java". This command compiles and then use 
